@@ -9,6 +9,6 @@ In this project, I built a SuperTuxKart ice hockey agent based on supervised lea
 
 [Self Driving Go-Kart Racer](../blob/master/LICENSE)
 
-In this project, I built an agent which uses computer vision to drive a go-kart racer. I developed this game in the SuperTuxKart game environment.  The cart which is shown in the image uses ONLY the camera screen images as its input to predict its trajectory of motion.  
+In this project, I built a racer kart which uses computer vision to drive in different terrains. This game was developed in the SuperTuxKart game environment.  The kart uses ONLY the camera screen images as its input to predict its trajectory of motion.  
 
 
