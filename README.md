@@ -1,5 +1,16 @@
-# Gayathri Venkat Portfolio
-This portfolio is a compilation of all Data Science projects that I have done for academic and self learning.  
+# Data Scientist
+
+### Education
+Masters of Science in Data Science, The University of Texas At Austin
+
+### Work Experience
+#### Data Scientist @ Tensor Data Scientists
+- Key projects 
+    - Customer segmentation model.
+    - Recommendation systems.
+    - Customer churn prediction.
+
+#### Solutions Engineer  @ Sonline  LLC 
 
 # Projects
 
