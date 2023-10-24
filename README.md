@@ -26,6 +26,8 @@ In this project, I built a racer kart that uses computer vision to drive in diff
 
 [Question Answering System](../blob/master/LICENSE)
 
+
+
 Developed an question answering model that answers  questions based  on passages from Wikipedia. This is my final project where I modified an existing neural question answering system and proposed an  improved model which was able to identify answers better than the baseline model. I was given three main  datasets:  SQuAD (Rajpurkar et al., 2016), NewsQA (Trischler et al., 2017), and BioASQ (Tsatsaronis et al.,2015) to work with. SQuAD asks questions about Wikipedia articles, NewsQA about news articles, and BioASQ about biomedical text.Furthermore, I also tested my model against the adversarial SQuAD data from Jia and Liang (2017). This data
 adds sentences which look like the question but contain nonsense entities, and easily fool many pre-trained
 SQuAD models. I implemeted a single model Bi-LSTM and trained it on the SQuAD dataset. The model showed between 5-6% improvement in performance on  both the SQuAD and Adversial SQuAD datasets. And, I did two minor changes to the baseline models:  1.Repositioning the attention  layers and 2. Fine tuning the hyperparameters.  
