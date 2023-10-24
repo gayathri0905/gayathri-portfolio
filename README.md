@@ -5,7 +5,7 @@ Masters of Science in Data Science, The University of Texas At Austin
 
 ### Work Experience
 #### Data Scientist @ Tensor Data Scientists
-- Key projects 
+##### Key projects 
     - Customer segmentation model.
     - Recommendation systems.
     - Customer churn prediction.
