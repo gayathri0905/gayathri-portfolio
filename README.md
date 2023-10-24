@@ -20,7 +20,7 @@ In this project, I built a SuperTuxKart ice hockey agent based on supervised lea
   
 ###  [Self Driving Go-Kart Racer](../blob/master/LICENSE) 
 
-![alt text](/Images/go_kart_racer.gif)
+![alt text](https://github.com/gayathri0905/gayathri-portfolio/blob/main/Images/go_kart_racer.gif)
 
 In this project, I built a racer kart that uses computer vision to drive in different terrains. This game was developed in the SuperTuxKart game environment.  This kart uses ONLY the camera screen images as its input to predict its trajectory of motion. I developed a fully convolutional network using a encoder-decoder structure with  batch normalization to process the input image and predicted an 'aim point'. This aim point is value which had x and y co-ordinate of the kart position to which the kart was supposed to drive, inorder to complete the race. And, I also implemented a controller which handled the steering, acceleration, braking and drifting of the kart based  on the predicted aim point.  
 
