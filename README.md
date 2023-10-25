@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Masters of Science in Data Science, The University of Texas At Austin
+MS in Data Science
 
 ### Work Experience
 #### Data Scientist @ Tensor Data Scientists
