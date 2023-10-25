@@ -1,6 +1,6 @@
 title: Gayathri Venkateswaran
-#logo: /Images/headshot.png
-#description:  text below image
+logo: /Images/headshot.png
+description:  text below image
 show_downloads: true
 #theme: jekyll-theme-minimal
 remote_theme: pages-themes/cayman@v0.2.0
