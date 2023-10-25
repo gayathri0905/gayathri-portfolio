@@ -12,7 +12,7 @@ Masters of Science in Data Science, The University of Texas At Austin
 
 #### Solutions Engineer  @ Sonline  LLC 
 
-# Projects
+### Projects
 
 [Ice Hockey Tournament](../blob/master/LICENSE)
 
