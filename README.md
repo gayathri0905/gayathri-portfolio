@@ -12,7 +12,11 @@ MS in Data Science
     - Recommendation systems.
     - Customer churn prediction.
 
-#### Solutions Engineer  @ Sonline  LLC
+#### Solutions Engineer @ Sonline  LLC
+##### Key projects 
+    - Search Engine Optimization.
+    - Ranking Systems.
+    - Customer churn prediction.
 
 ### Projects
 
