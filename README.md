@@ -13,10 +13,28 @@ MS in Data Science
     - Customer churn prediction.
 
 #### Solutions Engineer @ Sonline  LLC
-##### Key projects 
+##### Key projects
+    - Scalable search systems. 
     - Search Engine Optimization.
     - Ranking Systems.
-    - Customer churn prediction.
+    
+##### Description: 
+    - Designed and implemented a scalable search system to enhance search speed and efficiency for a high-traffic platform.
+    
+##### Key Achievements: 
+    - Improved search response time by 30%, resulting in a significantly enhanced user experience. 
+    - Implemented horizontal scaling techniques, allowing the system to handle a 50% increase in concurrent search queries. 
+    - Reduced infrastructure costs by 20% through optimized resource allocation and utilization. 
+    
+##### Technologies Used: 
+    - Java, Python, Elasticsearch, AWS (EC2, S3), Docker 
+
+##### Challenges Faced: 
+    - Addressed indexing bottlenecks and optimized query processing to achieve performance improvements.
+    - Optimizing high-traffic systems, with a focus on scalability and performance. 
+
+##### Impact: 
+    - The project led to a notable increase in user satisfaction and engagement, contributing to a 15% rise in conversion rates for search-driven sales. 
 
 ### Projects
 
