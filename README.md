@@ -116,6 +116,8 @@ A company has a fleet of devices transmitting daily sensor readings. In this pro
 - These algorithms are highly specialized in Anomaly detection. Unlike the regular supervised SVM, the one-class SVM does not have target labels for the model training process.
 - Instead, it learns the boundary for the normal data points and identifies the data outside the border to be anomalies, which would work well for our dataset.
 
+![](/Images/predictive_maintenance_results.png)
+
 
 
 
