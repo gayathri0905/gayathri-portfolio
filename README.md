@@ -12,24 +12,24 @@ MS in Data Science
     - Recommendation systems.
     - Customer churn prediction.
 
-##### Description:
+##### Description
     - Developed and implemented a machine learning-based customer segmentation model to enhance targeted marketing efforts and improve customer satisfaction.
 
-##### Key Achievements:
+##### Key Achievements
     - Achieved a 20% increase in email campaign conversion rates by delivering personalized content to segmented customer groups.
     - Reduced customer acquisition costs by 15% through more efficient advertising spend allocation based on segmentation insights.
 
-##### Technologies Used:
+##### Technologies Used
     - Python, pySpark, Azure databricks, scikit-learn, pandas, SQL, Tableau
 
-##### Challenges Faced:
+##### Challenges Faced
     - Addressed issues related to data quality and feature engineering to ensure accurate segmentation.
     - Addressed issues related to imbalanced data and feature selection to improve model performance.
 
-##### Lessons Learned:
+##### Lessons Learned
     - Gained valuable insights into customer behavior and preferences, leading to more effective marketing strategies.
 
-##### Impact:
+##### Impact
     - The project resulted in improved marketing ROI and customer engagement, contributing to a 18% increase in customer conversions.
 
 
@@ -39,22 +39,22 @@ MS in Data Science
     - Search Engine Optimization.
     - Ranking Systems.
     
-##### Description: 
+##### Description 
     - Designed and implemented a scalable search system to enhance search speed and efficiency for a high-traffic platform.
     
-##### Key Achievements: 
+##### Key Achievements 
     - Improved search response time by 30%, resulting in a significantly enhanced user experience. 
     - Implemented horizontal scaling techniques, allowing the system to handle a 50% increase in concurrent search queries. 
     - Reduced infrastructure costs by 20% through optimized resource allocation and utilization. 
     
-##### Technologies Used: 
+##### Technologies Used 
     - Java, Python, Elasticsearch, AWS (EC2, S3), Docker 
 
-##### Challenges Faced: 
+##### Challenges Faced 
     - Addressed indexing bottlenecks and optimized query processing to achieve performance improvements.
     - Optimizing high-traffic systems, with a focus on scalability and performance. 
 
-##### Impact: 
+##### Impact 
     - The project led to a notable increase in user satisfaction and engagement, contributing to a 15% rise in conversion rates for search-driven sales. 
 
 ### Projects
@@ -73,7 +73,7 @@ In this project, I built a racer kart that uses computer vision to drive in diff
 
 #### Question Answering System
 
-Developed an question answering model that answers  questions based on passages from Wikipedia. This is my final project where I modified an existing neural question answering system and proposed an improved model which was able to identify answers better than the baseline model. I was given three main  datasets:  SQuAD (Rajpurkar et al., 2016), NewsQA (Trischler et al., 2017), and BioASQ (Tsatsaronis et al.,2015) to work with. 
+Developed a question answering model that answers  questions based on passages from Wikipedia. This is my final project where I modified an existing neural question answering system and proposed an improved model which was able to identify answers better than the baseline model. I was given three main  datasets:  SQuAD (Rajpurkar et al., 2016), NewsQA (Trischler et al., 2017), and BioASQ (Tsatsaronis et al.,2015) to work with. 
 
 ![alt text](/Images/question_answering_system_using_SQuAD.png)
 
@@ -99,8 +99,22 @@ SQuAD models. I implemeted a single model Bi-LSTM and trained it on the SQuAD da
 - The aligned attention embedding layer which was implemented for a context-question pair clearly signifies the  prime context phrase/word that maps to the query word. For example, the word 'many' maps to the context words:'one','four','eight','appearances'.
 - Then by drawing the probability mass for the start and end index of the prediction span we get the gold answer.
  
+#### Device Predictive Maintenance
 
+A company has a fleet of devices transmitting daily sensor readings. In this project, I created a predictive maintenance solution to proactively identify maintenance requirements and cadence.
 
+- The predictive maintenance dataset had 124494 rows and 12 columns.
+- The dataset was highly imbalanced with 106 unique failures and 124388 non failures.
+- Applied SMOTE oversampling and RandomUnderSampler algorithms to handle the imbalance in the dataset.
+- Used precision and recall as a performance metric to analyze my model.
+- Calculated Precision-Recall Area Under Curve (AUC) score for differnt thresholds and evaluated the performance of the model.
+- Used Logistic Regression as the baseline algorithm and other boosting algorithms such as, AdaBoost, GradientBoost for maintenance prediction.
+
+#### Future Scope
+
+- Implement different algorithms such as: OneClassSVM, IsolationForest algorithms.
+- These algorithms are highly specialized in Anomaly detection. Unlike the regular supervised SVM, the one-class SVM does not have target labels for the model training process.
+- Instead, it learns the boundary for the normal data points and identifies the data outside the border to be anomalies, which would work well for our dataset.
 
 
 
