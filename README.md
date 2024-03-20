@@ -90,7 +90,7 @@ SQuAD models. I implemeted a single model Bi-LSTM and trained it on the SQuAD da
 
 ![alt text](/Images/query2context_attention_implemetation.png)
 
-### Results
+#### Results
 
 - The proposed model shows ~5% improvement in EM against the baseline.
 - The  model is able to find answers for 'When' and 'Who' based questions. This is because these answers  are based on named entities with short context.
